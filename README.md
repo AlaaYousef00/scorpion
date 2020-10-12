@@ -8,4 +8,4 @@ step2- when opened for first will need you to enter your list it's already have 
 
 step3- enter text will be save the valid subdomains for example. ##### enter save list: valid.txt
 
-step4- enter protocol like http,https,ftp and as you want for example . ##### Enter protocol:http
+step4- enter protocol like http,https,ftp and as you want for example . ##### Enter protocol: http
